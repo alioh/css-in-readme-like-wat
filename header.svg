@@ -59,6 +59,7 @@
 					border-radius: 10px;
 					color: white;
 					text-align: center;
+					direction: rtl;
 				}
 
 				h1 {
@@ -73,6 +74,7 @@
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
 					animation: rotate ease-in-out 1s infinite alternate;
+					direction: rtl;				
 				}
 
 				p {
@@ -83,6 +85,11 @@
 			</style>
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
+				<h1>
+					تجربة كتابة نص عربي
+					followed by an English text
+					ثم نص عربي آخر
+				</h1>
 				<p>Click to see the source</p>
 			</div>
 		</div>
